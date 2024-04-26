@@ -1,3 +1,3 @@
-# proyecto
-# nombre: juan camilo zapata
-este proyecto va ha servir para aprender sobre logica de programación.
+# OPVESCOL HELP DESK
+# nombre: Juan Camilo Zapata
+Soporte nivel I, Nivel II a usuario final y empresas presencial y remotamente
